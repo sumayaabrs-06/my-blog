@@ -169,7 +169,7 @@ body {
     flex-grow: 1;
 }
 
-/* Pending */
+/* Pending "Read Here" */
 .post-button-pending {
     display: inline-block;
     background-color: #FF7051;
@@ -182,7 +182,7 @@ body {
     align-self: flex-start;
 }
 
-/* Done */
+/* Done "Read Here" */
 .post-button-done {
     display: inline-block;
     background-color: #3e79a3;
@@ -195,6 +195,9 @@ body {
     align-self: flex-start;
 
 }
+
+/* Retrospective Section */
+
 
 
 /* Page Footer */
