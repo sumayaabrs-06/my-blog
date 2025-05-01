@@ -200,18 +200,19 @@ body {
 
 .h1-retro-heading {
     text-align: center;
-    font-size: 70px;
+    font-size: 60px;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .h2-retro-text {
-    font-size: 50px;
+    font-size: 40px;
     padding-left: 10px;
 
 }
 
 .p-retro-text {
-    font-size: 40px;
+    font-size: 30px;
     padding-left: 10px;
 }
 
